@@ -12,17 +12,21 @@ A lightweight, terminal-based calendar and task management application built wit
 
 🛠️ Built With:
 *Python 3
+
 *calendar module (Standard Library)
 
 📦 How to Run:
 1. Clone this repository:
-Bash
+   
+
 git clone https://github.com/yourusername/PyScheduler.git
 
-2. Navigate into the project folder:
-Bash
+3. Navigate into the project folder:
+   
+
 cd PyScheduler
 
-3. Run the application:
-Bash
+5. Run the application:
+   
+
 python main.py
